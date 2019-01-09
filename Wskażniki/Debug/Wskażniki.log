@@ -1,0 +1,5 @@
+﻿  Wskażniki.cpp
+c:\users\lenovo\desktop\c++\wskażniki\wskażniki\wskażniki.cpp(11): error C2065: "cout": niezadeklarowany identyfikator
+c:\users\lenovo\desktop\c++\wskażniki\wskażniki\wskażniki.cpp(12): error C2065: "cin": niezadeklarowany identyfikator
+c:\users\lenovo\desktop\c++\wskażniki\wskażniki\wskażniki.cpp(18): error C2065: "cout": niezadeklarowany identyfikator
+c:\users\lenovo\desktop\c++\wskażniki\wskażniki\wskażniki.cpp(18): error C2065: "endl": niezadeklarowany identyfikator
